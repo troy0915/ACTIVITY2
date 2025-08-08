@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\activity2how old are you in month\obj\Debug\activity2how old are you in month.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\activity2how old are you in month\obj\Debug\activity2how old are you in month.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\activity2how old are you in month\bin\Debug\activity2how old are you in month.exe.config
+C:\Users\HP\source\repos\activity2how old are you in month\bin\Debug\activity2how old are you in month.exe
+C:\Users\HP\source\repos\activity2how old are you in month\bin\Debug\activity2how old are you in month.pdb
+C:\Users\HP\source\repos\activity2how old are you in month\obj\Debug\activity2how old are you in month.exe
+C:\Users\HP\source\repos\activity2how old are you in month\obj\Debug\activity2how old are you in month.pdb
